@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="textView_billAmountHint"> Insert Amount </string>
+    <string name="bill_amount_hint"> Bill Amount </string>
+    <string name="tip_percent_label"> 15% </string>
+    <string name="tip_label"> Tip </string>
+    <string name="total_label"> Total </string>
+    <string name="round_total_label" >Round up total</string>
+    <string name="round_tip_label" >Round up tip </string>
+    <string name="round_none_label" >Don\'t round up</string>
+    <string-array name="people_array"> Divide between:
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="button_calculate">Calculate</string>
+    <string name="per_person_total_label"> Total per person </string>
+    <string name="bill_per_person_label"> Bill Amount </string>
+    <string name="menu_share">Share</string>
+    <string name="menu_info">Information</string>
+    <string name="people_label">Split between: </string>
+</resources>
